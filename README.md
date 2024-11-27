@@ -1,2 +1,24 @@
 # Neural-FCA
-The objective of this project was to apply Neural Formal Concept Analysis (FCA) to the UCI Acute Inflammations Dataset for the classification of two urinary system diseases. We compared the performance of Neural FCA with several popular machine learning algorithms to evaluate its effectiveness in medical diagnosis tasks.
+
+## Overview
+
+This project applies Neural Formal Concept Analysis (FCA) to classify acute inflammations in the urinary system, comparing its performance with traditional machine learning models.
+
+## Dataset
+
+We utilize the UCI Acute Inflammations Dataset for our analysis.
+
+## Methods
+
+- Neural FCA combines neural networks with formal concept analysis.
+- Comparison models include decision trees, support vector machines, and neural networks.
+
+## Results
+
+Our findings highlight the effectiveness of Neural FCA in medical diagnosis through performance comparisons.
+
+## References
+
+- UCI Acute Inflammations Dataset: [Link](https://archive.ics.uci.edu/dataset/184/acute+inflammations)
+- Neural FCA Library: [Link](https://github.com/MariiaZueva/neuralFCA)
+- Temperature Binarization: [Link](https://en.wikipedia.org/wiki/Human_body_temperature)

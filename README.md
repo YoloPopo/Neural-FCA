@@ -21,4 +21,5 @@ Our findings highlight the effectiveness of Neural FCA in medical diagnosis thro
 
 - UCI Acute Inflammations Dataset: [Link](https://archive.ics.uci.edu/dataset/184/acute+inflammations)
 - Neural FCA Library: [Link](https://github.com/MariiaZueva/neuralFCA)
-- Temperature Binarization: [Link](https://en.wikipedia.org/wiki/Human_body_temperature)
+- Human Body Temperature Binarization: [Link](https://en.wikipedia.org/wiki/Human_body_temperature)
+- [World Health Organization (WHO) Definition of Fever](https://www.who.int/data/gho/indicator-metadata-registry/imr-details/180)
